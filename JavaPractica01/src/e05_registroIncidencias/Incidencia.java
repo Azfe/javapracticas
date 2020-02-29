@@ -83,6 +83,7 @@ public class Incidencia {
 		} else {
 			return "Incidencia " + cd +
 			" - Puesto: "        + n_puesto +
+			" - "                + problema +
 			" - Resuelta - "     + solucion;
 		}
 	}
