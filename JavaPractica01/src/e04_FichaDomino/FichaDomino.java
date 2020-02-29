@@ -3,7 +3,7 @@ package e04_FichaDomino;
 public class FichaDomino {
 	
 	//Atributos
-	int valor_d, valor_i;
+	private int valor_d, valor_i;
 	
 	//Constructores
 	public FichaDomino () {
